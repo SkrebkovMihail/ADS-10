@@ -59,3 +59,4 @@ std::vector<std::vector<char>> Tree::getPermutations() const {
     return permutations;
 }
 #endif  // INCLUDE_TREE_H_
+
